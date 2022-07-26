@@ -1,0 +1,26 @@
+<div class="container py-5 bg-light my-5" >
+<h2 class="my-3">
+Welcome to the Online Test
+</h2>
+<p>This test contains <span class="ctn">10 </span> Questions. Please make sure that your internet speed is more than 1mbs.</p>
+<h3 class="my-3 ">
+     Rules:
+</h3>
+<ul>
+    <li>Don't Open other sites once you started the Test</li>
+    <li>Each Question carries 10 points</li>
+    <li>For Every one wrong answer you will loose 10 points</li>
+    <li>Test time : 1min </li>
+    
+
+</ul>
+<form>
+    <div class="name col-md-4 my-3">
+      <label for="">Name</label>
+      <input #name type="text" class="form-control" placeholder="Enter your name">
+      
+    </div>
+    
+    <button  class="btn btn-primary btn-lg" routerLink="/questions" (click)="startTest()">Start the Test !!</button>
+  </form>
+</div>

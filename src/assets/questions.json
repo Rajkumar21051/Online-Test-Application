@@ -1,0 +1,166 @@
+{
+    "questions": [{
+            "questionText": " How many sizes of headers are available in HTML by default?",
+            "options": [{
+                    "text": "4"
+                    
+                },
+                {
+                    "text": "5"
+                },
+                {
+                    "text": "6",
+                    "correct": true
+                },
+                {
+                    "text": "7"
+                }
+            ],
+            "explanation": "6 headers are available in HTML by default ranging from h1 to h6."
+        },
+        {
+            "questionText": "Which attribute is used to provide a unique name to an HTML element?",
+            "options": [{
+                    "text": "ID",
+                    "correct": true
+                },
+                {
+                    "text": "Class"
+                },
+                {
+                    "text": "type"
+                },
+                {
+                    "text": "none"
+                }
+            ],
+            "explanation": "An id is used to provide a unique name for an HTML element that can be used to identify it."
+        },
+        {
+            "questionText": "What tag is used to render an image on a webpage?",
+            "options": [{
+                    "text": "Src"
+                },
+                {
+                    "text": "Img",
+                    "correct": true
+                },
+                {
+                    "text": "Jpg"
+                },
+                {
+                    "text": "none"
+                }
+            ],
+            "explanation": "The img tag is used to display an image on a webpage."
+        },
+        {
+            "questionText": "Which of the following tags is used to add a row to a table in HTML?",
+            "options": [{
+                    "text": "<th>"
+                },
+                {
+                    "text": "<tr>",
+                    "correct": true
+                },
+                {
+                    "text": "<td>"
+                },
+                {
+                    "text": "<li>"
+                }
+            ],
+            "explanation": "<tr> is used to add a row to a table in HTML."
+        },
+        {
+            "questionText": "What keyword is used to check whether a given property is valid or not?",
+            "options": [{
+                    "text": "in",
+                    "correct": true
+                },
+                {
+                    "text": "is in"
+                },
+                {
+                    "text": "exists"
+                },
+                {
+                    "text": "lies"
+                }
+            ],
+            "explanation": "The in keyword is used to check whether the given property is valid or not in Javascript."
+        },
+        {
+            "questionText": "When an operator’s value is NULL, the typeof returned by the unary operator is:",
+            "options": [{
+                    "text": "Undefined"
+                },
+                {
+                    "text": "Integer"
+                },
+                {
+                    "text": "Boolean"
+                },
+                {
+                    "text": "Object",
+                    "correct": true
+                }
+            ],
+            "explanation": "Any NULL value of operator will always return typeof object."
+        },
+        {
+            "questionText": "Which of the following is not a Javascript framework?",
+            "options": [{
+                    "text": "Vue"
+                },
+                {
+                    "text": "Cassandra",
+                    "correct": true
+                },
+                {
+                    "text": "Node"
+                },
+                {
+                    "text": "React"
+                }
+            ],
+            "explanation": "Other than Cassandra, all the other options are Javascript frameworks."
+        },
+        {
+            "questionText": "What keyword is used to declare an asynchronous function in Javascript?",
+            "options": [{
+                    "text": "async",
+                    "correct": true
+                },
+                {
+                    "text": "await"
+                },
+                {
+                    "text": "setTimeOut"
+                },
+                {
+                    "text": "none"
+                }
+            ],
+            "explanation": "The async keyword is used to declare an asynchronous function in Javascript."
+        },
+        {
+            "questionText": "Apart from <i> tag, which of the following tag is used to render a text in italics?",
+            "options": [{
+                    "text": "<em>",
+                    "correct": true
+                },
+                {
+                    "text": "<strong>"
+                },
+                {
+                    "text": "<b>"
+                },
+                {
+                    "text": "none"
+                }
+            ],
+            "explanation": "The <em> tag is used to emphasize text, which puts same effect as <i> tag."
+        }
+    ]
+}
